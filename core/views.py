@@ -8,7 +8,7 @@ from rest_framework.response import Response
 from rest_framework import status
 
 
-
+#Só para ter certeza
 
 class EraseBackgroundView (APIView):
     name = 'Remove background'
